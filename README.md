@@ -66,14 +66,14 @@
 ## 🔗 Coding & Social Profiles
 
 ### 👨‍💻 Coding Platforms  
-<a href="https://leetcode.com/vinod783058/" target="_blank">LeetCode</a> • 
-<a href="https://www.hackerrank.com/vinod783058" target="_blank">HackerRank</a> • 
+<a href="https://leetcode.com/vinod_kumar123/" target="_blank">LeetCode</a> • 
+<a href="https://www.hackerrank.com/22A91A12B3" target="_blank">HackerRank</a> • 
 <a href="https://www.codechef.com/users/vinod783058" target="_blank">CodeChef</a>
 
 ### 🌐 Social & Professional  
-<a href="https://vinodkumar.vercel.app/" target="_blank">Portfolio</a> • 
+<a href="https://vinodkumarpeddi.vercel.app/" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/peddi-vinod-kumar/" target="_blank">LinkedIn</a> • 
-<a href="https://github.com/vinod783058" target="_blank">GitHub</a> • 
+<a href="https://github.com/vinodkumarpeddi" target="_blank">GitHub</a> • 
 
 ---
 
@@ -103,10 +103,10 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumarpeddi&layout=compact)](https://github.com/vinodkumarpeddi)
 
 ### 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinod783058)](https://github.com/vinodkumarpeddi)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinodkumarpeddi)](https://github.com/vinodkumarpeddi)
 
 ### 📈 Contribution Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinod783058&theme=github)](https://github.com/vinodkumarpeddi)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarpeddi&theme=github)](https://github.com/vinodkumarpeddi)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vinod783058&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
