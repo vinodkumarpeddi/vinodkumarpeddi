@@ -50,16 +50,14 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🎒 Lost & Found Website** | A web app for managing and reporting lost items in colleges. | React, Node.js, Express, MongoDB |
-| **💪 PowerX** | A data-driven fitness platform with diet logging, calorie tracking, AI-driven exercise recommendations, optimized backend APIs by 50%, and responsive UI with 45% faster load times. | React, Node.js, Express, MongoDB |
-| **🍔 Fresh On Wheels** | A food ordering app with a responsive menu, real-time cart, secure Stripe payments, and admin panel for product, order, and user management with 50% faster API performance. | React, Node.js, Express, Stripe API, MongoDB |
+| **💪 PowerX** | A data-driven fitness platform with features like diet logging, calorie tracking, and AI-based exercise suggestions. Boosted backend API performance by 50% and achieved 45% faster load times. | React, Node.js, Express.js, MongoDB |
+| **🪑 Exam Seating Management** | A full-stack web app for managing student seating during university exams. Includes Excel uploads, seat/faculty allocation, email notifications, and data exports. | React, Node.js, Express.js, MongoDB, Nodemailer |
+| **🤖 GrillBot (AI Mock Interviewer)** | An AI-powered chatbot that simulates technical interviews, provides real-time feedback, and helps students practice coding and HR questions. | React, OpenAI API, Node.js, Express.js |
 
----
 
 ## 📜 Certifications
 
 - ✅ **IT Specialist (HTML & CSS, Python, Java, JavaScript)** – *Pearson VUE*
-- 🎩 **System Administrator (RHCSA)** – *Red Hat*
 - 🛠️ **System Administrator (CSA) and Application Developer (CAD)** – *ServiceNow*
 - 🗄️ **Oracle Database Foundations** – *Oracle*
 
