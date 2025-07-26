@@ -3,111 +3,113 @@
 </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=500&lines=Problem+Solver;Frontend+Web+Developer;Backend+Developer;Full+Stack+Developer;MERN+Stack+Developer;ServiceNow+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1F75FE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;ServiceNow+Developer;Problem+Solver;MERN+Stack+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech IT student at Aditya Engineering College  
-💻 Passionate about problem-solving, web development, and ServiceNow  
-🌐 Skilled in Java, Python, C++, SQL, HTML, CSS, JavaScript, React, ServiceNow  
-🧠 Strong understanding of OS, CN, DBMS, DSA, and OOPs  
-🛠️ Experienced with Git & GitHub version control  
+- 🎓 Final Year B.Tech (IT) Student at **Aditya Engineering College**
+- 💻 Passionate about **Problem Solving, Full Stack Development, and ServiceNow**
+- 🌐 Proficient in **Java, C++, JavaScript, React, Node.js, Express.js, MongoDB, ServiceNow**
+- 🧠 Strong grasp on **OS, CN, DBMS, OOPs, DSA**
+- 🛠️ Experienced with **Version Control (Git & GitHub)**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 🚀 Programming Languages
-`C++` • `Java` • `C`
+### 🚀 Languages
+`Java` • `C++` • `C`
 
-### 🌐 Web Technologies
-`HTML` • `CSS` • `JavaScript` • `React` • `Node Js` • `Express Js`
+### 🌐 Frontend
+`HTML` • `CSS` • `JavaScript` • `React.js`
+
+### 🔧 Backend
+`Node.js` • `Express.js`
+
+### 🗄️ Database
+`MongoDB` • `SQL`
 
 ### 🧰 Tools & Platforms
-`VS Code` • `Git` • `GitHub` • `Vercel` • `ServiceNow` 
+`VS Code` • `Git` • `GitHub` • `Vercel` • `Nodemailer` • `ServiceNow`
 
-### 🗄️ Databases
-`SQL` • `MongoDB`
-
-### 💡 Core Computer Science
+### 🧠 Core Subjects
 `OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
 
 ---
 
 ## 💼 Experience
 
-### 🌐 Full Stack Developer – Technical Hub  *(May 2025 – June 2025)*  
-- Designed and developed responsive web interfaces using HTML&CSS, JavaScript, React, Node Js  
-- Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
-- Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
+### 🔧 Full Stack Developer – Technical Hub *(May 2025 – June 2025)*  
+- Developed responsive UIs using React, HTML, and CSS  
+- Built and tested RESTful APIs with Node.js and Express  
+- Ensured mobile responsiveness and improved UI/UX  
+- Integrated MongoDB for efficient data handling  
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **💪 PowerX** | A data-driven fitness platform with features like diet logging, calorie tracking, and AI-based exercise suggestions. Boosted backend API performance by 50% and achieved 45% faster load times. | React, Node.js, Express.js, MongoDB |
-| **🪑 Exam Seating Management** | A full-stack web app for managing student seating during university exams. Includes Excel uploads, seat/faculty allocation, email notifications, and data exports. | React, Node.js, Express.js, MongoDB, Nodemailer |
-| **🤖 GrillBot (AI Mock Interviewer)** | An AI-powered chatbot that simulates technical interviews, provides real-time feedback, and helps students practice coding and HR questions. | React, OpenAI API, Node.js, Express.js |
+| **💪 PowerX** | Fitness platform with AI-based exercise plans, calorie tracking, and diet logs. Optimized APIs and UI for performance. | React, Node.js, Express.js, MongoDB |
+| **🪑 Exam Seating Management** | University exam automation tool with seat allocation, Excel import/export, email notifications, and faculty mapping. | React, Node.js, Express.js, MongoDB, Nodemailer |
+| **🤖 GrillBot (AI Mock Interviewer)** | Simulates real-time tech interviews with OpenAI-powered chatbot. Helps in HR and technical question preparation. | React, Node.js, Express.js, OpenAI API |
 
+---
 
 ## 📜 Certifications
 
-- ✅ **IT Specialist (HTML & CSS, Python, Java, JavaScript)** – *Pearson VUE*
-- 🛠️ **System Administrator (CSA) and Application Developer (CAD)** – *ServiceNow*
-- 🗄️ **Oracle Database Foundations** – *Oracle*
+- ✅ *IT Specialist (HTML & CSS, Python, Java, JavaScript)* – **Pearson VUE**
+- 🛠️ *CSA & CAD* – **ServiceNow**
+- 🗄️ *Oracle Database Foundations* – **Oracle**
 
 ---
 
-## 🔗 Coding & Social Profiles
+## 🔗 Connect With Me
 
-### 👨‍💻 Coding Platforms  
-<a href="https://leetcode.com/vinod_kumar123/" target="_blank">LeetCode</a> • 
-<a href="https://www.hackerrank.com/22A91A12B3" target="_blank">HackerRank</a> • 
-<a href="https://www.codechef.com/users/vinod783058" target="_blank">CodeChef</a>
+### 👨‍💻 Coding Profiles  
+- [LeetCode](https://leetcode.com/vinod_kumar123/)  
+- [HackerRank](https://www.hackerrank.com/22A91A12B3)  
+- [CodeChef](https://www.codechef.com/users/vinod783058)
 
-### 🌐 Social & Professional  
-<a href="https://vinodkumarpeddi.vercel.app/" target="_blank">Portfolio</a> • 
-<a href="https://www.linkedin.com/in/peddi-vinod-kumar/" target="_blank">LinkedIn</a> • 
-<a href="https://github.com/vinodkumarpeddi" target="_blank">GitHub</a> • 
+### 🌐 Portfolio & Socials  
+- 🌐 [Portfolio](https://vinodkumarpeddi.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/peddi-vinod-kumar/)  
+- 💻 [GitHub](https://github.com/vinodkumarpeddi)
 
 ---
 
-## 📞 Contact Me
+## 📞 Contact
 
 - 📧 Email: [vinod783058@gmail.com](mailto:vinod783058@gmail.com)  
 - 📱 Phone: [+91-9391205153](tel:+919391205153)  
-- 💬 WhatsApp: [+91-9391205153](https://wa.me/919391205153)  
-- 📍 Address: Kakinada, Andhra Pradesh, India
+- 💬 WhatsApp: [Click to Chat](https://wa.me/919391205153)  
+- 📍 Location: Kakinada, Andhra Pradesh, India
 
 ---
 
-## 📊 Stats & Activity
+## 📊 GitHub Stats & Activity
 
-### 💡 LeetCode Stats  
-[![Vinod's LeetCode Stats](https://leetcard.jacoblin.cool/vinod_kumar123?ext=contest)](https://leetcode.com/u/vinod_kumar123/)
-
----
-
-### 📈 GitHub Stats  
+### 🔥 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodkumarpeddi&show_icons=true&theme=default)](https://github.com/vinodkumarpeddi)
 
-### 🔥 Contribution Streak  
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=vinodkumarpeddi&theme=light&hide_border=false)](https://github.com/vinodkumarpeddi)
+### 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinodkumarpeddi&row=1&column=6)](https://github.com/vinodkumarpeddi)
 
-### 📚 Top Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumarpeddi&layout=compact)](https://github.com/vinodkumarpeddi)
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarpeddi&theme=github)](https://github.com/vinodkumarpeddi)
 
-### 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinodkumarpeddi)](https://github.com/vinodkumarpeddi)
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vinodkumarpeddi&theme=light)](https://github.com/vinodkumarpeddi)
 
-### 📈 Contribution Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarpeddi&theme=github)](https://github.com/vinodkumarpeddi)
+### 📚 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarpeddi&layout=compact)](https://github.com/vinodkumarpeddi)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vinod783058&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinod783058&label=Profile%20Views&color=1F75FE&style=flat" alt="Profile Views" />
 </p>
