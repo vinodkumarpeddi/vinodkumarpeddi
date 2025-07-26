@@ -89,18 +89,18 @@
 ## 📊 Stats & Activity
 
 ### 💡 LeetCode Stats  
-[![Vinod's LeetCode Stats](https://leetcard.jacoblin.cool/vinod783058?ext=contest)](https://leetcode.com/u/vinod_kumar123/)
+[![Vinod's LeetCode Stats](https://leetcard.jacoblin.cool/vinod_kumar123?ext=contest)](https://leetcode.com/u/vinod_kumar123/)
 
 ---
 
 ### 📈 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinod783058&show_icons=true&theme=default)](https://github.com/vinodkumarpeddi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodkumarpeddi&show_icons=true&theme=default)](https://github.com/vinodkumarpeddi)
 
 ### 🔥 Contribution Streak  
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=vinod783058&theme=light&hide_border=false)](https://github.com/vinodkumarpeddi)
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=vinodkumarpeddi&theme=light&hide_border=false)](https://github.com/vinodkumarpeddi)
 
 ### 📚 Top Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinod783058&layout=compact)](https://github.com/vinodkumarpeddi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumarpeddi&layout=compact)](https://github.com/vinodkumarpeddi)
 
 ### 🏆 GitHub Trophies  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinod783058)](https://github.com/vinodkumarpeddi)
